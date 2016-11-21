@@ -1,4 +1,4 @@
-<dataSource name="MySQL - db_jdbc_connecttest@localhost">
+<dataSource name="MySQL - warehouse@localhost">
   <database-model serializer="dbm" rdbms="MYSQL" format-version="2.6">
     <schema id="1" name="db_jdbc_connecttest">
       <visible>1</visible>
